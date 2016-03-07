@@ -7,3 +7,4 @@ Depends: R (>= 3.3.0)
 License: What license is it under?
 LazyData: true
 ByteCompile: TRUE
+Imports: methods
